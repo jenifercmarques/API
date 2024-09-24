@@ -5,5 +5,7 @@ Essa API foi criada com o intuito de acelerar a produção de trabalhos e projet
 <h3>Recomendações 📝 </h3>
 
 Para clonar o repositório existem algumas recomendações que devem ser seguidas, sendo elas:
-<li> Use o *npm install* para garantir que todas as dependências serão baixadas </li>
+1. Use o ```bash
+   npm install
+   ``` para garantir que todas as dependências serão baixadas </li>
 <li>Verique se o Node está instalado na sua máquina</li>
