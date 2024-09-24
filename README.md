@@ -6,5 +6,6 @@ Essa API foi criada com o intuito de acelerar a produção de trabalhos e projet
 
 *Para clonar o repositório existem algumas recomendações que devem ser seguidas, sendo elas:*
 
-1. Use o  `npm install` para garantir que todas as dependências serão baixadas </li>
-2. Verique se o `Node` está instalado na sua máquina</li>
+1. Use o  `npm install` para garantir que todas as dependências serão baixadas.
+2. Verique se o `Node` está instalado na sua máquina.
+3. Lembre-se de criar o seu arquivo `.env` com a sua API-KEY.
